@@ -1,0 +1,3 @@
+# yupub
+
+yup for CDN
