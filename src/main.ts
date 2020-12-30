@@ -1,9 +1,9 @@
 import * as Yup from 'yup';
 
 interface Window {
-  yup: any
+  yupub: any
 }
 declare var window: Window
 
-window.yup = Yup;
+window.yupub = Yup;
 
