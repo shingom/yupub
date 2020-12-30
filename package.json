@@ -1,6 +1,6 @@
 {
   "name": "yupub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yup for cdn",
   "main": "dist/yupub.js",
   "scripts": {
